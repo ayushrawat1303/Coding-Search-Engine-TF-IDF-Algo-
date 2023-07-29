@@ -1,0 +1,1 @@
+Number Squareful Arrays array squareful if sum every pair adjacent elements perfect square Given integer array nums return number permutations nums squareful Two permutations perm perm different if there some index such perm perm Example Input nums Output Explanation valid permutations Example Input nums Output Constraints numslength nums

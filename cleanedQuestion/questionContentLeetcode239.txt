@@ -1,0 +1,1 @@
+Arranging Coins You have coins you want build staircase with these coins staircase consists rows where ith row has exactly coins last row staircase may be incomplete Given integer return number complete rows staircase you will build Example Input Output Explanation Because rd row incomplete we return Example Input Output Explanation Because th row incomplete we return Constraints

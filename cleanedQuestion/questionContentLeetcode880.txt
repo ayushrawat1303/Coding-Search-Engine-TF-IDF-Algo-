@@ -1,0 +1,1 @@
+Count Number Nice Subarrays Given array integers nums integer continuous subarray called nice if there odd numbers on it Return number nice subarrays Example Input nums Output Explanation only subarrays with odd numbers Example Input nums Output Explanation There no odd numbers array Example Input nums Output Constraints numslength nums numslength

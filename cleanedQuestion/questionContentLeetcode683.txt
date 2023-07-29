@@ -1,0 +1,1 @@
+Maximum Width Ramp ramp integer array nums pair for which nums nums width such ramp Given integer array nums return maximum width ramp nums If there no ramp nums return Example Input nums Output Explanation maximum width ramp achieved nums nums Example Input nums Output Explanation maximum width ramp achieved nums nums Constraints numslength nums

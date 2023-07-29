@@ -1,0 +1,1 @@
+Ugly Number II ugly number positive integer whose prime factors limited Given integer return nth ugly number Example Input Output Explanation sequence first ugly numbers Example Input Output Explanation has no prime factors therefore all its prime factors limited Constraints

@@ -1,0 +1,1 @@
+Reordered Power You given integer We reorder digits any order including original order such leading digit not zero Return true if only if we can do this so resulting number power two Example Input Output true Example Input Output false Constraints

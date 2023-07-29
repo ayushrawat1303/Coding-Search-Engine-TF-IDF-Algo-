@@ -1,0 +1,1 @@
+Sum Digits Base Given integer base base return sum digits after converting from base base After converting each digit should be interpreted as base number sum should be returned base Example Input Output Explanation base expressed base Example Input Output Explanation already base Constraints

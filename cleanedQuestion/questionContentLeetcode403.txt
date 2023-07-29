@@ -1,0 +1,1 @@
+Monotone Increasing Digits integer has monotone increasing digits if only if each pair adjacent digits satisfy Given integer return largest number less than equal with monotone increasing digits Example Input Output Example Input Output Example Input Output Constraints

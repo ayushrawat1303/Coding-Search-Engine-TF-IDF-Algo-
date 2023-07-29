@@ -1,0 +1,1 @@
+Tiling Rectangle with Fewest Squares Given rectangle size return minimum number integersided squares tile rectangle Example Input Output Explanation squares necessary cover rectangle squares square Example Input Output Example Input Output Constraints

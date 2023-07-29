@@ -1,0 +1,1 @@
+Tenth Line Given text file filetxt print just th line file Example Assume filetxt has following content Line Line Line Line Line Line Line Line Line Line Your script should output tenth line which Line Note If file contains less than lines what should you output Theres least three different solutions Try explore all possibilities

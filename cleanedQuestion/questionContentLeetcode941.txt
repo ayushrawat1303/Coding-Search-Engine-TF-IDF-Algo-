@@ -1,0 +1,1 @@
+Subtract Product Sum Digits Integer Given integer number return difference between product its digits sum its digits Example Input Output Explanation Product digits Sum digits Result Example Input Output Explanation Product digits Sum digits Result Constraints

@@ -1,0 +1,1 @@
+Longest Duplicate Substring Given string consider all duplicated substrings contiguous substrings occur more times occurrences may overlap Return any duplicated substring has longest possible length If does not have duplicated substring answer Example Input banana Output ana Example Input abcd Output Constraints slength consists lowercase English letters

@@ -1,0 +1,1 @@
+Swap Nodes Pairs Given linked list swap every two adjacent nodes return its head You must solve problem without modifying values lists nodes ie only nodes themselves may be changed Example Input head Output Example Input head Output Example Input head Output Constraints number nodes list range Nodeval

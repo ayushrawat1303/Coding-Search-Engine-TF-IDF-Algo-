@@ -1,0 +1,1 @@
+Find Kth Smallest Pair Distance distance pair integers defined as absolute difference between Given integer array nums integer return kth smallest distance among all pairs nums nums where numslength Example Input nums Output Explanation Here all pairs Then st smallest distance pair its distance Example Input nums Output Example Input nums Output Constraints numslength nums

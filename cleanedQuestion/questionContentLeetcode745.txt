@@ -1,0 +1,1 @@
+Valid Boomerang Given array points where points represents point on XY plane return true if these points boomerang boomerang set three points all distinct not straight line Example Input points Output true Example Input points Output false Constraints pointslength pointslength xi yi

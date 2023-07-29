@@ -1,0 +1,1 @@
+Distant Barcodes warehouse there row barcodes where ith barcode barcodes Rearrange barcodes so no two adjacent barcodes equal You may return any answer it guaranteed answer exists Example Input barcodes Output Example Input barcodes Output Constraints barcodeslength barcodes

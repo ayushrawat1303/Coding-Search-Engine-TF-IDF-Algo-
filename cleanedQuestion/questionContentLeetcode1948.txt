@@ -1,0 +1,1 @@
+Array Prototype Last Write code enhances all arrays such you can call arraylast method on any array it will return last element If there no elements array it should return Example Input nums Output Explanation Calling numslast should return last element Example Input nums Output Explanation Because there no elements return Constraints arrlength arr

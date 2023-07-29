@@ -1,0 +1,1 @@
+Count Number Fair Pairs Given indexed integer array nums size two integers lower upper return number fair pairs pair fair if lower nums nums upper Example Input nums lower upper Output Explanation There fair pairs Example Input nums lower upper Output Explanation There single fair pair Constraints numslength numslength nums lower upper

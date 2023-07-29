@@ -1,0 +1,1 @@
+Next Greater Element III Given positive integer find smallest integer which has exactly same digits existing integer greater value than If no such positive integer exists return Note returned integer should fit bit integer if there valid answer but it does not fit bit integer return Example Input Output Example Input Output Constraints

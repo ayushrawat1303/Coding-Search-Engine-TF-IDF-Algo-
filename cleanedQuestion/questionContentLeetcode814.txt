@@ -1,0 +1,1 @@
+Largest Bordered Square Given grid return number elements largest square subgrid has all on its border if such subgrid doesnt exist grid Example Input grid Output Example Input grid Output Constraints gridlength gridlength grid

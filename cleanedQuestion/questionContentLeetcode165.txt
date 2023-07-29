@@ -1,0 +1,1 @@
+Perfect Squares Given integer return least number perfect square numbers sum perfect square integer square integer other words it product some integer with itself For example perfect squares while not Example Input Output Explanation Example Input Output Explanation Constraints

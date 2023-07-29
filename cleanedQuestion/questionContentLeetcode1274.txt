@@ -1,0 +1,1 @@
+Swapping Nodes Linked List You given head linked list integer Return head linked list after swapping values kth node from beginning kth node from end list indexed Example Input head Output Example Input head Output Constraints number nodes list Nodeval

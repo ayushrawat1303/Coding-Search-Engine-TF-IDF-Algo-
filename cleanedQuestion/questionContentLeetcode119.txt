@@ -1,0 +1,1 @@
+Remove Linked List Elements Given head linked list integer val remove all nodes linked list has Nodeval val return new head Example Input head val Output Example Input head val Output Example Input head val Output Constraints number nodes list range Nodeval val

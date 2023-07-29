@@ -1,0 +1,1 @@
+Matrix Diagonal Sum Given square matrix mat return sum matrix diagonals Only include sum all elements on primary diagonal all elements on secondary diagonal not part primary diagonal Example Input mat Output Explanation Diagonals sum Notice element mat counted only once Example Input mat Output Example Input mat Output Constraints matlength matlength mat

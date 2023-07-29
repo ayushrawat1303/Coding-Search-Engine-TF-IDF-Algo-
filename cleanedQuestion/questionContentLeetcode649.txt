@@ -1,0 +1,1 @@
+Sort Array By Parity Given integer array nums move all even integers beginning array followed by all odd integers Return any array satisfies this condition Example Input nums Output Explanation outputs would also be accepted Example Input nums Output Constraints numslength nums

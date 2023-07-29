@@ -1,0 +1,1 @@
+Valid Mountain Array Given array integers arr return true if only if it valid mountain array Recall arr mountain array if only if arrlength There exists some with arrlength such arr arr arr arr arr arr arr Example Input arr Output false Example Input arr Output false Example Input arr Output true Constraints arrlength arr

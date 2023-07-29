@@ -1,0 +1,1 @@
+Increasing Order Search Tree Given root binary search tree rearrange tree inorder so leftmost node tree now root tree every node has no left child only one right child Example Input root Output Example Input root Output Constraints number nodes given tree will be range Nodeval

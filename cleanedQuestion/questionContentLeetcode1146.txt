@@ -1,0 +1,1 @@
+Special Positions Binary Matrix Given binary matrix mat return number special positions mat position called special if mat all other elements row column rows columns indexed Example Input mat Output Explanation special position because mat all other elements row column Example Input mat Output Explanation special positions Constraints matlength matlength mat either

@@ -1,0 +1,1 @@
+Reverse Linked List Given head singly linked list reverse list return reversed list Example Input head Output Example Input head Output Example Input head Output Constraints number nodes list range Nodeval Follow up linked list can be reversed either iteratively recursively Could you implement both

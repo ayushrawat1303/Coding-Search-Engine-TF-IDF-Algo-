@@ -1,0 +1,1 @@
+Powx Implement powx which calculates raised power ie xn Example Input Output Example Input Output Example Input Output Explanation Constraints integer Either not zero xn

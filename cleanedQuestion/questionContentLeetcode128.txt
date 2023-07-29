@@ -1,0 +1,1 @@
+Maximal Square Given binary matrix filled with find largest square containing only return its area Example Input matrix Output Example Input matrix Output Example Input matrix Output Constraints matrixlength matrixlength matrix

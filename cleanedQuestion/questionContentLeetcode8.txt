@@ -1,0 +1,1 @@
+Trapping Rain Water Given nonnegative integers representing elevation map where width each bar compute how much water it can trap after raining Example Input height Output Explanation above elevation map black section represented by array this case units rain water blue section being trapped Example Input height Output Constraints heightlength height

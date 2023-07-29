@@ -1,0 +1,1 @@
+Check If It Straight Line You given array coordinates coordinates where represents coordinate point Check if these points make straight line XY plane Example Input coordinates Output true Example Input coordinates Output false Constraints coordinateslength coordinateslength coordinates coordinates coordinates contains no duplicate point

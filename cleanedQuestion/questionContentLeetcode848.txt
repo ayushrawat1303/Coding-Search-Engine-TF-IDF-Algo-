@@ -1,0 +1,1 @@
+Last Substring Lexicographical Order Given string return last substring lexicographical order Example Input abab Output bab Explanation substrings lexicographically maximum substring bab Example Input leetcode Output tcode Constraints slength contains only lowercase English letters

@@ -1,0 +1,1 @@
+Permutations Given array nums distinct integers return all possible permutations You can return answer any order Example Input nums Output Example Input nums Output Example Input nums Output Constraints numslength nums All integers nums unique

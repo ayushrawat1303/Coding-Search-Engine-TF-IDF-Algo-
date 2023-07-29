@@ -1,0 +1,1 @@
+All Possible Full Binary Trees Given integer return list all possible full binary trees with nodes Each node each tree answer must have Nodeval Each element answer root node one possible tree You may return final list trees any order full binary tree binary tree where each node has exactly children Example Input Output Example Input Output Constraints

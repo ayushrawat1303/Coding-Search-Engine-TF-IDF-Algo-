@@ -1,0 +1,1 @@
+Sequential Digits integer has sequential digits if only if each digit number one more than previous digit Return sorted list all integers range inclusive have sequential digits Example Input low high Output Example Input low high Output Constraints low high

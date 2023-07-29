@@ -1,0 +1,1 @@
+Ugly Number ugly number positive integer whose prime factors limited Given integer return true if ugly number Example Input Output true Explanation Example Input Output true Explanation has no prime factors therefore all its prime factors limited Example Input Output false Explanation not ugly since it includes prime factor Constraints

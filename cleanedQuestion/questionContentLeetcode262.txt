@@ -1,0 +1,1 @@
+Max Consecutive Ones Given binary array nums return maximum number consecutive array Example Input nums Output Explanation first two digits last three digits consecutive maximum number consecutive Example Input nums Output Constraints numslength nums either

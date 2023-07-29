@@ -1,0 +1,1 @@
+Middle Linked List Given head singly linked list return middle node linked list If there two middle nodes return second middle node Example Input head Output Explanation middle node list node Example Input head Output Explanation Since list has two middle nodes with values we return second one Constraints number nodes list range Nodeval

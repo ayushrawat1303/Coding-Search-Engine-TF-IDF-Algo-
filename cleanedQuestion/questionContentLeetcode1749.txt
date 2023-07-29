@@ -1,0 +1,1 @@
+Find Original Array Prefix Xor You given integer array pref size Find return array arr size satisfies pref arr arr arr Note denotes bitwisexor operation It can be proven answer unique Example Input pref Output Explanation From array we have following pref pref pref pref pref Example Input pref Output Explanation We have pref arr Constraints preflength pref

@@ -1,0 +1,1 @@
+Count Triplets Can Form Two Arrays Equal XOR Given array integers arr We want select three indices where arrlength Lets define as follows arr arr arr arr arr arr Note denotes bitwisexor operation Return number triplets Where Example Input arr Output Explanation triplets Example Input arr Output Constraints arrlength arr

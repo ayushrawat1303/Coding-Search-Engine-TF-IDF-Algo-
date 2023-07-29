@@ -1,0 +1,1 @@
+Single Element Sorted Array You given sorted array consisting only integers where every element appears exactly twice except for one element which appears exactly once Return single element appears only once Your solution must run Olog time space Example Input nums Output Example Input nums Output Constraints numslength nums

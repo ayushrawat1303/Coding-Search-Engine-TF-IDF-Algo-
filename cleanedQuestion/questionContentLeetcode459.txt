@@ -1,0 +1,1 @@
+Preimage Size Factorial Zeroes Function Let fx be number zeroes end Recall by convention For example because has no zeroes end while because has two zeroes end Given integer return number nonnegative integers have property fx Example Input Output Explanation end with zeroes Example Input Output Explanation There no such ends zeroes Example Input Output Constraints

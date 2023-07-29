@@ -1,0 +1,1 @@
+Longest Common Prefix Write function find longest common prefix string amongst array strings If there no common prefix return empty string Example Input strs Output fl Example Input strs Output Explanation There no common prefix among input strings Constraints strslength strslength strs consists only lowercase English letters

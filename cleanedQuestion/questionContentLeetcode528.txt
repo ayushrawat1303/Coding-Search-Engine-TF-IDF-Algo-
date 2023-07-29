@@ -1,0 +1,1 @@
+Consecutive Numbers Sum Given integer return number ways you can write as sum consecutive positive integers Example Input Output Explanation Example Input Output Explanation Example Input Output Explanation Constraints

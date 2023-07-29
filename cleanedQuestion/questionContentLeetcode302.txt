@@ -1,0 +1,1 @@
+Matrix Given binary matrix mat return distance nearest for each cell distance between two adjacent cells Example Input mat Output Example Input mat Output Constraints matlength matlength mat either There least one mat

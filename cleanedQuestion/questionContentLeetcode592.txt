@@ -1,0 +1,1 @@
+Score Parentheses Given balanced parentheses string return score string score balanced parentheses string based on following rule has score AB has score where balanced parentheses strings has score where balanced parentheses string Example Input Output Example Input Output Example Input Output Constraints slength consists only balanced parentheses string

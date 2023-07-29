@@ -1,0 +1,1 @@
+Maximum Product Subarray Given integer array nums find subarray has largest product return product test cases generated so answer will fit bit integer Example Input nums Output Explanation has largest product Example Input nums Output Explanation result cannot be because not subarray Constraints numslength nums product any prefix suffix nums guaranteed fit bit integer

@@ -1,0 +1,1 @@
+Three Consecutive Odds Given integer array arr return true if there three consecutive odd numbers array Otherwise return false Example Input arr Output false Explanation There no three consecutive odds Example Input arr Output true Explanation three consecutive odds Constraints arrlength arr

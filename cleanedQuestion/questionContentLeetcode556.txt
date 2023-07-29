@@ -1,0 +1,1 @@
+Nth Magical Number positive integer magical if it divisible by either Given three integers return nth magical number Since answer may be very large return it modulo Example Input Output Example Input Output Constraints

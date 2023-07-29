@@ -1,0 +1,1 @@
+Univalued Binary Tree binary tree univalued if every node tree has same value Given root binary tree return true if given tree univalued false otherwise Example Input root Output true Example Input root Output false Constraints number nodes tree range Nodeval

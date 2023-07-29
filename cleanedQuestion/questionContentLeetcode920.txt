@@ -1,0 +1,1 @@
+Count Square Submatrices with All Ones Given matrix ones zeros return how many square submatrices have all ones Example Input matrix Output Explanation There squares side There squares side There square side Total number squares Example Input matrix Output Explanation There squares side There square side Total number squares Constraints arrlength arrlength arr

@@ -1,0 +1,1 @@
+Reverse Pairs Given integer array nums return number reverse pairs array reverse pair pair where numslength nums nums Example Input nums Output Explanation reverse pairs nums nums nums nums Example Input nums Output Explanation reverse pairs nums nums nums nums nums nums Constraints numslength nums

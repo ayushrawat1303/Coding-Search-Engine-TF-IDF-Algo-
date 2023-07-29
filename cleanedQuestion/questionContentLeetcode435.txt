@@ -1,0 +1,1 @@
+Letter Case Permutation Given string you can transform every letter individually be lowercase uppercase create another string Return list all possible strings we could create Return output any order Example Input ab Output Example Input Output Constraints slength consists lowercase English letters uppercase English letters digits

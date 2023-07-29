@@ -1,0 +1,1 @@
+Majority Element Given array nums size return majority element majority element element appears more than times You may assume majority element always exists array Example Input nums Output Example Input nums Output Constraints numslength nums Followup Could you solve problem linear time space

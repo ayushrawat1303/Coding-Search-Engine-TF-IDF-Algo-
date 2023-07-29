@@ -1,0 +1,1 @@
+Add Digits Given integer num repeatedly add all its digits until result has only one digit return it Example Input num Output Explanation process Since has only one digit return it Example Input num Output Constraints num Follow up Could you do it without any looprecursion runtime

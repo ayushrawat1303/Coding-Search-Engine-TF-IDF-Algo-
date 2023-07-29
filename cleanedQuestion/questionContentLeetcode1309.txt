@@ -1,0 +1,1 @@
+Tuple with Same Product Given array nums distinct positive integers return number tuples such where elements nums Example Input nums Output Explanation There valid tuples Example Input nums Output Explanation There valid tuples Constraints numslength nums All elements nums distinct

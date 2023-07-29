@@ -1,0 +1,1 @@
+Numbers With Same Consecutive Differences Given two integers return array all integers length where difference between every two consecutive digits You may return answer any order Note integers should not have leading zeros Integers as not allowed Example Input Output Explanation Note not valid number because it has leading zeroes Example Input Output Constraints

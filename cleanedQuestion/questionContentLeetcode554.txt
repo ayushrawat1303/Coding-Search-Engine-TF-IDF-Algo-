@@ -1,0 +1,1 @@
+Advantage Shuffle You given two integer arrays nums nums both same length advantage nums with respect nums number indices for which nums nums Return any permutation nums maximizes its advantage with respect nums Example Input nums nums Output Example Input nums nums Output Constraints numslength numslength numslength nums nums

@@ -1,0 +1,1 @@
+Day Year Given string date representing Gregorian calendar date formatted as YYYYMMDD return day number year Example Input date Output Explanation Given date th day year Example Input date Output Constraints datelength date date all other dates digits date represents calendar date between Jan st Dec th

@@ -1,0 +1,1 @@
+Number Equivalent Domino Pairs Given list dominoes dominoes equivalent dominoes if only if either one domino can be rotated be equal another domino Return number pairs for which dominoeslength dominoes equivalent dominoes Example Input dominoes Output Example Input dominoes Output Constraints dominoeslength dominoeslength dominoes

@@ -1,0 +1,1 @@
+Contains Duplicate Given integer array nums return true if any value appears least twice array return false if every element distinct Example Input nums Output true Example Input nums Output false Example Input nums Output true Constraints numslength nums

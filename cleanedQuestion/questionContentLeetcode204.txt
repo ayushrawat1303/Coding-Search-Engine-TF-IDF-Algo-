@@ -1,0 +1,1 @@
+Trapping Rain Water II Given integer matrix heightMap representing height each unit cell elevation map return volume water it can trap after raining Example Input heightMap Output Explanation After rain water trapped between blocks We have two small ponds units trapped total volume water trapped Example Input heightMap Output Constraints heightMaplength heightMaplength heightMap

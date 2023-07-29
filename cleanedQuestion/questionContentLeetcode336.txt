@@ -1,0 +1,1 @@
+Fibonacci Number Fibonacci numbers commonly denoted Fn form sequence called Fibonacci sequence such each number sum two preceding ones starting from Fn Fn Fn for Given calculate Fn Example Input Output Explanation Example Input Output Explanation Example Input Output Explanation Constraints

@@ -1,0 +1,1 @@
+Number Boomerangs You given points plane all distinct where points boomerang tuple points such distance between equals distance between order tuple matters Return number boomerangs Example Input points Output Explanation two boomerangs Example Input points Output Example Input points Output Constraints pointslength pointslength xi yi All points unique

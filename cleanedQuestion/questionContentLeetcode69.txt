@@ -1,0 +1,1 @@
+Factorial Trailing Zeroes Given integer return number trailing zeroes Note Example Input Output Explanation no trailing zero Example Input Output Explanation one trailing zero Example Input Output Constraints Follow up Could you write solution works logarithmic time complexity

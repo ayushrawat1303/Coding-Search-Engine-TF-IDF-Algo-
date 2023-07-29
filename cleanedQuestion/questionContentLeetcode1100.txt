@@ -1,0 +1,1 @@
+Number Good Pairs Given array integers nums return number good pairs pair called good if nums nums Example Input nums Output Explanation There good pairs indexed Example Input nums Output Explanation Each pair array good Example Input nums Output Constraints numslength nums

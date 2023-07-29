@@ -1,0 +1,1 @@
+Base Given integer num return string its base representation Example Input num Output Example Input num Output Constraints num

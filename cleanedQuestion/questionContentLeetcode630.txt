@@ -1,0 +1,1 @@
+Minimum Area Rectangle You given array points XY plane points where points Return minimum area rectangle formed from these points with sides parallel axes If there not any such rectangle return Example Input points Output Example Input points Output Constraints pointslength pointslength xi yi All given points unique

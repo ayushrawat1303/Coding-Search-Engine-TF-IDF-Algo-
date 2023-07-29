@@ -1,0 +1,1 @@
+Shift Grid Given grid size integer You need shift grid times one shift operation Element grid moves grid Element grid moves grid Element grid moves grid Return grid after applying shift operation times Example Input grid Output Example Input grid Output Example Input grid Output Constraints gridlength gridlength grid

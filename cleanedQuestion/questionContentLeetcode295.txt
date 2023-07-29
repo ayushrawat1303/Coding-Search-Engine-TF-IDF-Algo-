@@ -1,0 +1,1 @@
+Minimum Moves Equal Array Elements Given integer array nums size return minimum number moves required make all array elements equal one move you can increment elements array by Example Input nums Output Explanation Only three moves needed remember each move increments two elements Example Input nums Output Constraints numslength numslength nums answer guaranteed fit bit integer

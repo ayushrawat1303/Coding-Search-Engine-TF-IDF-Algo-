@@ -1,0 +1,1 @@
+Sleep Given positive integer millis write asynchronous function sleeps for millis milliseconds It can resolve any value Example Input millis Output Explanation It should return promise resolves after ms let Datenow sleepthen consolelogDatenow Example Input millis Output Explanation It should return promise resolves after ms Constraints millis

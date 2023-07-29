@@ -1,0 +1,1 @@
+Check If All Least Length Places Away Given binary array nums integer return true if all least places away from each other otherwise return false Example Input nums Output true Explanation Each least places away from each other Example Input nums Output false Explanation second third only one apart from each other Constraints numslength numslength nums

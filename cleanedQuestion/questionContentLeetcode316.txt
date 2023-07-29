@@ -1,0 +1,1 @@
+Contiguous Array Given binary array nums return maximum length contiguous subarray with equal number Example Input nums Output Explanation longest contiguous subarray with equal number Example Input nums Output Explanation longest contiguous subarray with equal number Constraints numslength nums either

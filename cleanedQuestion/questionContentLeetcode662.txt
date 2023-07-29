@@ -1,0 +1,1 @@
+String Without AAA BBB Given two integers return any string such has length contains exactly letters exactly letters substring aaa does not occur substring bbb does not occur Example Input Output abb Explanation abb bab bba all correct answers Example Input Output aabaa Constraints It guaranteed such exists for given

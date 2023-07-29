@@ -1,0 +1,1 @@
+Beautiful Array array nums length beautiful if nums permutation integers range For every there no index with where nums nums nums Given integer return any beautiful array nums length There will be least one valid answer for given Example Input Output Example Input Output Constraints

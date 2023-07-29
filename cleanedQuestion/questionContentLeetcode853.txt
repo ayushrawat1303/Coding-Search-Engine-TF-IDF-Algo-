@@ -1,0 +1,1 @@
+Prime Arrangements Return number permutations so prime numbers prime indices indexed Recall integer prime if only if it greater than cannot be written as product two positive integers both smaller than it Since answer may be large return answer modulo Example Input Output Explanation For example valid permutation but not because prime number index Example Input Output Constraints

@@ -1,0 +1,1 @@
+Array Partition Given integer array nums integers group these integers into pairs bn such sum minai bi for all maximized Return maximized sum Example Input nums Output Explanation All possible pairings ignoring ordering elements min min min min min min So maximum possible sum Example Input nums Output Explanation optimal pairing min min min Constraints numslength nums

@@ -1,0 +1,1 @@
+Triples with Bitwise Equal Zero Given integer array nums return number triples triple triple indices such numslength numslength numslength nums nums nums where represents bitwiseAND operator Example Input nums Output Explanation We could choose following triples Example Input nums Output Constraints numslength nums

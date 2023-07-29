@@ -1,0 +1,1 @@
+Check If Its Double Exist Given array arr integers check if there exist two indices such arrlength arr arr Example Input arr Output true Explanation For arr arr Example Input arr Output false Explanation There no satisfy conditions Constraints arrlength arr

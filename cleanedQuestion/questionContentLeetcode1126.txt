@@ -1,0 +1,1 @@
+Number Subarrays With Odd Sum Given array integers arr return number subarrays with odd sum Since answer can be very large return it modulo Example Input arr Output Explanation All subarrays All subarrays sum Odd sums so answer Example Input arr Output Explanation All subarrays All subarrays sum All subarrays have even sum answer Example Input arr Output Constraints arrlength arr

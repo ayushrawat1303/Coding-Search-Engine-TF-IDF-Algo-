@@ -1,0 +1,1 @@
+Smallest Good Base Given integer represented as string return smallest good base We call good base if all digits base Example Input Output Explanation base Example Input Output Explanation base Example Input Output Explanation base Constraints integer range does not contain any leading zeros

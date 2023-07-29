@@ -1,0 +1,1 @@
+Permutation String Given two strings return true if contains permutation false otherwise other words return true if one ss permutations substring Example Input ab eidbaooo Output true Explanation contains one permutation ba Example Input ab eidboaoo Output false Constraints slength slength consist lowercase English letters

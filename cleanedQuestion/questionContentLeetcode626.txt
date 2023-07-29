@@ -1,0 +1,1 @@
+DI String Match permutation perm integers all integers range can be represented as string length where if perm perm if perm perm Given string reconstruct permutation perm return it If there multiple valid permutations perm return any them Example Input IDID Output Example Input III Output Example Input DDI Output Constraints slength either

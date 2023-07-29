@@ -1,0 +1,1 @@
+Binary Tree Paths Given root binary tree return all roottoleaf paths any order leaf node with no children Example Input root Output Example Input root Output Constraints number nodes tree range Nodeval

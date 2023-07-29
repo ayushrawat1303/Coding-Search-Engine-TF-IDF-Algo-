@@ -1,0 +1,1 @@
+Kth Smallest Lexicographical Order Given two integers return kth lexicographically smallest integer range Example Input Output Explanation lexicographical order so second smallest number Example Input Output Constraints

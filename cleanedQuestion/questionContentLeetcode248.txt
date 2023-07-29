@@ -1,0 +1,1 @@
+Reconstruct Original Digits from English Given string containing outoforder English representation digits return digits ascending order Example Input owoztneoer Output Example Input fviefuro Output Constraints slength one characters guaranteed be valid

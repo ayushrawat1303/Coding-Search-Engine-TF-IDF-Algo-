@@ -1,0 +1,1 @@
+Simplified Fractions Given integer return list all simplified fractions between exclusive such denominator lessthanorequalto You can return answer any order Example Input Output Explanation only unique fraction with denominator lessthanorequalto Example Input Output Example Input Output Explanation not simplified fraction because it can be simplified Constraints

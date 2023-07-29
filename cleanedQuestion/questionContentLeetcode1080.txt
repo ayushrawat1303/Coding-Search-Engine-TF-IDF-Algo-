@@ -1,0 +1,1 @@
+Running Sum Array Given array nums We define running sum array as runningSum sumnumsnums Return running sum nums Example Input nums Output Explanation Running sum obtained as follows Example Input nums Output Explanation Running sum obtained as follows Example Input nums Output Constraints numslength nums

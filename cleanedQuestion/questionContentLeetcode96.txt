@@ -1,0 +1,1 @@
+Transpose File Given text file filetxt transpose its content You may assume each row has same number columns each field separated by character Example If filetxt has following content name age alice ryan Output following name alice ryan age

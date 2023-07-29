@@ -1,0 +1,1 @@
+Consecutive Characters power string maximum length nonempty substring contains only one unique character Given string return power Example Input leetcode Output Explanation substring ee length with character only Example Input abbcccddddeeeeedcba Output Explanation substring eeeee length with character only Constraints slength consists only lowercase English letters

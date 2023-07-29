@@ -1,0 +1,1 @@
+Number Common Factors Given two positive integers return number common factors integer common factor if divides both Example Input Output Explanation common factors Example Input Output Explanation common factors Constraints

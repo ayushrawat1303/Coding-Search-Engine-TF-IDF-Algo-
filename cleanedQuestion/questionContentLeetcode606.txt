@@ -1,0 +1,1 @@
+Binary Subarrays With Sum Given binary array nums integer goal return number nonempty subarrays with sum goal subarray contiguous part array Example Input nums goal Output Explanation subarrays bolded underlined below Example Input nums goal Output Constraints numslength nums either goal numslength

@@ -1,0 +1,1 @@
+Self Dividing Numbers selfdividing number number divisible by every digit it contains For example selfdividing number because selfdividing number not allowed contain digit zero Given two integers left right return list all selfdividing numbers range Example Input left right Output Example Input left right Output Constraints left right

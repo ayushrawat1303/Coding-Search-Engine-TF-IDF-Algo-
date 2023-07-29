@@ -1,0 +1,1 @@
+Three Divisors Given integer return true if has exactly three positive divisors Otherwise return false integer divisor if there exists integer such Example Input Output false Explantion has only two divisors Example Input Output true Explantion has three divisors Constraints

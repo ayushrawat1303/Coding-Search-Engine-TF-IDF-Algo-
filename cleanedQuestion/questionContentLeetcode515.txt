@@ -1,0 +1,1 @@
+Largest Triangle Area Given array points on XY plane points where points return area largest triangle can be formed by any three different points Answers within actual answer will be accepted Example Input points Output Explanation five points shown above figure red triangle largest Example Input points Output Constraints pointslength xi yi All given points unique

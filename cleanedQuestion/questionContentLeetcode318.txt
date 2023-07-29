@@ -1,0 +1,1 @@
+Perfect Number perfect number positive integer equal sum its positive divisors excluding number itself divisor integer integer can divide evenly Given integer return true if perfect number otherwise return false Example Input num Output true Explanation all divisors Example Input num Output false Constraints num

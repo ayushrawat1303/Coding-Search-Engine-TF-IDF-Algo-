@@ -1,0 +1,1 @@
+Powerful Integers Given three integers bound return list all powerful integers have value less than equal bound integer powerful if it can be represented as xi yj for some integers You may return answer any order your answer each value should occur most once Example Input bound Output Explanation Example Input bound Output Constraints bound

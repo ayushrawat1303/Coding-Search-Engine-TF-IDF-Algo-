@@ -1,0 +1,1 @@
+Rotate String Given two strings goal return true if only if can become goal after some number shifts on shift on consists moving leftmost character rightmost position For example if abcde then it will be bcdea after one shift Example Input abcde goal cdeab Output true Example Input abcde goal abced Output false Constraints slength goallength goal consist lowercase English letters

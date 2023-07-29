@@ -1,0 +1,1 @@
+Smallest Even Multiple Given positive integer return smallest positive integer multiple both Example Input Output Explanation smallest multiple both Example Input Output Explanation smallest multiple both Note number multiple itself Constraints

@@ -1,0 +1,1 @@
+Power Two Given integer return true if it power two Otherwise return false integer power two if there exists integer such Example Input Output true Explanation Example Input Output true Explanation Example Input Output false Constraints Follow up Could you solve it without loopsrecursion

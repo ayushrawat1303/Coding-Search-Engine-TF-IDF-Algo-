@@ -1,0 +1,1 @@
+Count Special Quadruplets Given indexed integer array nums return number distinct quadruplets such nums nums nums nums Example Input nums Output Explanation only quadruplet satisfies requirement because Example Input nums Output Explanation There no such quadruplets Example Input nums Output Explanation quadruplets satisfy requirement Constraints numslength nums

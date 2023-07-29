@@ -1,0 +1,1 @@
+Transpose Matrix Given integer array matrix return transpose matrix transpose matrix matrix flipped over its main diagonal switching matrixs row column indices Example Input matrix Output Example Input matrix Output Constraints matrixlength matrixlength matrix

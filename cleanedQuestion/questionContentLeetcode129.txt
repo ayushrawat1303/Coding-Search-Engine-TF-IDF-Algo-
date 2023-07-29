@@ -1,0 +1,1 @@
+Kth Smallest Element BST Given root binary search tree integer return kth smallest value indexed all values nodes tree Example Input root Output Example Input root Output Constraints number nodes tree Nodeval Follow up If BST modified often ie we can do insert delete operations you need find kth smallest frequently how would you optimize

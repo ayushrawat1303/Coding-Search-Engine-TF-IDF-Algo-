@@ -1,0 +1,1 @@
+Alternating Digit Sum You given positive integer Each digit has sign according following rules most significant digit assigned positive sign Each other digit has opposite sign its adjacent digits Return sum all digits with their corresponding sign Example Input Output Explanation Example Input Output Explanation Example Input Output Explanation Constraints

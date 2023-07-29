@@ -1,0 +1,1 @@
+Shortest Subarray with Sum Least Given integer array nums integer return length shortest nonempty subarray nums with sum least If there no such subarray return subarray contiguous part array Example Input nums Output Example Input nums Output Example Input nums Output Constraints numslength nums

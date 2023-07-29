@@ -1,0 +1,1 @@
+Subarray Sum Equals Given array integers nums integer return total number subarrays whose sum equals subarray contiguous nonempty sequence elements within array Example Input nums Output Example Input nums Output Constraints numslength nums

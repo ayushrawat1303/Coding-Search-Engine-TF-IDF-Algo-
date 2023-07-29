@@ -1,0 +1,1 @@
+Valid Square Given coordinates four points space return true if four points construct square coordinate point pi represented as input not given any order valid square has four equal sides with positive length four equal angles degree angles Example Input Output true Example Input Output false Example Input Output true Constraints plength plength plength plength xi yi

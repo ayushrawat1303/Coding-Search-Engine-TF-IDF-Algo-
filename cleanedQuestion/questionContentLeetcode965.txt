@@ -1,0 +1,1 @@
+Minimum Flips Make Equal Given positives numbers Return minimum flips required some bits make bitwise operation Flip operation consists change any single bit change bit their binary representation Example Input Output Explanation After flips such Example Input Output Example Input Output Constraints

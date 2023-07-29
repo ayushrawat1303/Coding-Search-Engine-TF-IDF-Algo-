@@ -1,0 +1,1 @@
+Number Segments String Given string return number segments string segment defined be contiguous sequence nonspace characters Example Input Hello my name John Output Explanation five segments Example Input Hello Output Constraints slength consists lowercase uppercase English letters digits one following characters only space character

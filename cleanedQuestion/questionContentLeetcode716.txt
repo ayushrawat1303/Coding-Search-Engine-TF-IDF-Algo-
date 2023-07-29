@@ -1,0 +1,1 @@
+Max Consecutive Ones III Given binary array nums integer return maximum number consecutive array if you can flip most Example Input nums Output Explanation Bolded numbers were flipped from longest subarray underlined Example Input nums Output Explanation Bolded numbers were flipped from longest subarray underlined Constraints numslength nums either numslength

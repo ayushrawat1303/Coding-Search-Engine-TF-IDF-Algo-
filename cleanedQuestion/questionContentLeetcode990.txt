@@ -1,0 +1,1 @@
+Angle Between Hands Clock Given two numbers hour minutes return smaller angle degrees formed between hour minute hand Answers within actual value will be accepted as correct Example Input hour minutes Output Example Input hour minutes Output Example Input hour minutes Output Constraints hour minutes

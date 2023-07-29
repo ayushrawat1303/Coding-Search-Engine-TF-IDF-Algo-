@@ -1,0 +1,1 @@
+Count Square Sum Triples square triple abc triple where integers Given integer return number square triples such Example Input Output Explanation square triples Example Input Output Explanation square triples Constraints

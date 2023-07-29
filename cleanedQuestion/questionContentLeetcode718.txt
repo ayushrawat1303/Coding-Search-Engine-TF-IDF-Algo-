@@ -1,0 +1,1 @@
+Binary String With Substrings Representing Given binary string positive integer return true if binary representation all integers range substrings false otherwise substring contiguous sequence characters within string Example Input Output true Example Input Output false Constraints slength either
